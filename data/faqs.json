@@ -1,0 +1,26 @@
+[
+    {
+      "question": "Who can use Project Nest?",
+      "answer": "Project Nest is ideal for corporate employees, product managers, and admins looking to streamline task management within their organization."
+    },
+    {
+      "question": "How do admins assign tasks?",
+      "answer": " Admins can create sprints, assign tasks to colleagues, and set priorities directly from the dashboard."
+    },
+    {
+      "question": "What makes Project Nest unique?",
+      "answer": "With real-time notifications, special admin roles, and a user-friendly interface, Project Nest offers unparalleled efficiency and ease of use."
+    },
+    {
+      "question": "What key features does Project Nest offer?",
+      "answer": "Project Nest provides a range of powerful features including intuitive Kanban boards for visualizing workflow, robust sprint planning tools for agile teams, comprehensive reporting for data-driven decisions, customizable workflows, time tracking, and team collaboration tools. These features work seamlessly together to enhance your project management experience."
+    },
+    {
+      "question": "Is my data secure?",
+      "answer": "Absolutely! Project Nest uses robust authentication systems and secure databases to protect your information."
+    },
+    {
+      "question": "Can I customize task priorities?",
+      "answer": "Yes, you can assign high, medium, or low priority to tasks based on urgency and importance."
+    }
+  ]
